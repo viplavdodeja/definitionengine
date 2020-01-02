@@ -1,0 +1,73 @@
+API needs internet and connect to internet
+
+type word
+send word to computer
+small program will receive word 
+call dictionary API to define word
+computer recieve response
+send response and print to arduino
+
+
+two parts
+
+part 1:
+convert handwritted word into text
+
+
+part 2:
+calling internet API and getting meaning
+
+can do both lcd and speaker
+pronunciation is very helpful speaker is a better idea
+
+wav file play in speaker
+
+API is application programming interface- its live data
+library is embed in program. ei. list of words and meanings which is limited to content
+
+can use entire power of computer because it's listener
+
+
+
+
+
+need a backup idea:
+	use library for like 20 words and define just those with buttons
+	button game where student can change between x amunt of words and see their definition
+	
+basic:
+v1
+type input
+call api
+send to speaker
+
+v2
+add module to text recog to v1
+
+v3
+add audio and lcd display of meaning to v2
+
+
+
+javascript IDE
+	- visual studio
+	- 
+
+
+
+nodejs cannot find package on windows 
+
+program nodejs is unable to find library express 
+node_path is not getting set 
+
+
+how to set environment veriables in windows
+
+how to set node_path on windows 7
+
+
+
+
+javascript is http request
+398676b0-b366-411f-9fe2-99b0863d12dd
+

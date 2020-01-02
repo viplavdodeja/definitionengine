@@ -1,0 +1,28 @@
+.json os javascript object notation
+- all public api return in this format
+- is a web format
+- calls the api and returns data
+
+
+many api will allow specific to call back certain data
+
+check khan academy for working with json and api videos
+
+type word into python shell and output is sent to arduino speaker 
+create a simple python page with text box and enter word and press "enter"
+python will take that input from page and run code as well as send otput to arduino
+
+excercise: build an html page in python with one text box 
+
+
+from python program send word to arduino 
+
+
+
+break project code into small pieces
+
+eig:
+- build html page in python with text box where i can type into abd press enter
+- from python program send signal to arduino
+- from python program calling a web api and working with that json data
+
