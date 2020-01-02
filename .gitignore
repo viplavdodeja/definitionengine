@@ -1,0 +1,7 @@
+*.log
+*.wav
+VS/node_modules
+VS/express
+VS/johnny-five
+VS/sounds
+VS/lib
